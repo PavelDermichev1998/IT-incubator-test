@@ -26,7 +26,6 @@ object1 = {
   name: "Kirill",
   age: 21
 },
-
 object2 = {
   name: "Dima",
   age: 22
